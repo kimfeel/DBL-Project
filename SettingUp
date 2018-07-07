@@ -1,0 +1,21 @@
+Motion Sensor
+https://github.com/burrsutter/rpi_HC-SR501
+https://github.com/burrsutter/rpi_HC-SR501/blob/master/poll_motion.py
+
+Temperature & Humidity Sensor
+https://github.com/adafruit/Adafruit_Python_DHT
+
+Light Sensor
+https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+https://github.com/maxlklaxl/python-tsl2591
+https://github.com/maxlklaxl/python-tsl2591/issues/1
+
+Microphone
+mic input setting change -> sudo nano .asoundrc 
+
+http://wiki.sunfounder.cc/index.php?title=To_use_USB_mini_microphone_on_Raspbian
+
+https://chrisbaume.wordpress.com/2013/02/09/aubio-alsaaudio/
+https://computers.tutsplus.com/articles/using-a-usb-audio-device-with-a-raspberry-pi--mac-55876
+https://computers.tutsplus.com/articles/using-a-raspberry-pi-as-an-airplay-receiver--mac-54316
+http://iwearshorts.com/blog/raspberry-pi-setting-up-your-audio/
