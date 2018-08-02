@@ -15,8 +15,7 @@ sudo python -m pip install --upgrade pip setuptools wheel
 sudo pip install Adafruit_DHT
 
 
-sudo apt-get install python-alsaaudio
-sudo apt-get install python-aubio
+sudo apt-get install python-alsaaudio python-aubio
 
 sudo nano /usr/share/alsa/alsa.conf
 
