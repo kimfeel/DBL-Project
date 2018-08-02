@@ -1,7 +1,9 @@
 # DBL-Project
 
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+
 cd Adafruit_Python_DHT
+
 sudo python setup.py install
 
 sudo apt-get update
@@ -23,7 +25,9 @@ defaults.ctl.card 1
 defaults.pcm.card 1
 
 sudo raspi-config
+
 5. Interfacing Options
+
 P5. I2C -> enable
 
 git clone https://github.com/kimfeel/DBL-Project.git
